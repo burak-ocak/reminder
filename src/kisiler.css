@@ -1,0 +1,13 @@
+.kok-etiket{
+    text-align: center;
+}
+
+.kisiler{
+    display: flex;
+}
+
+.resim img{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
